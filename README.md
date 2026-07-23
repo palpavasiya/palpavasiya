@@ -1,61 +1,49 @@
-<h1 align="center">👋 Hi, I'm Pal Patel</h1>
-<h3 align="center">Full-Stack Web & Mobile Developer (React & Laravel Specialist)</h3>
-
-<p align="center">
-  <!-- Location -->
-  <img src="https://img.shields.io/badge/Location-Surat%2C%20India-orange"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Pal%20Pavasiya&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Apps,%20SaaS,%20ERP%20|%20Business%20Systems&descAlignY=55&descAlign=50" alt="Pal Pavasiya Header" />
   
-  <!-- Email -->
+  <br />
+  
   <a href="mailto:pal.pavasiyaa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-pal.pavasiyaa@gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <!-- Portfolio -->
-  <a href="https://palpatel.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white"/>
+  <a href="https://palpavasiya.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-palpavasiya.vercel.app-171717?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Production%20Ready%20Systems-blue" />
-  <img src="https://img.shields.io/badge/Expertise-Web%20%7C%20Mobile%20%7C%20Backend-success" />
-</p>
+  <a href="https://www.linkedin.com/in/palpavasiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-## 👨‍💻 About
+### 👨‍💻 About Me
 
-I build **production-ready Web & Mobile applications** with scalable backend systems.  
-My focus is on solving real business problems through ERP systems, admin panels, healthcare platforms, HR systems, and booking applications.
+I am a **Full-Stack Developer** based in Surat, India, specializing in high-performance web applications, mobile apps, and **AI-powered SaaS platforms**. 
 
-I handle **end-to-end development** — from system architecture and database design to deployment and optimization.
+I take full ownership of the product lifecycle—from complex backend database architectures and secure REST APIs to pixel-perfect, offline-first mobile and web interfaces. If it requires **React, React Native, or Laravel**, I build it the right way.
 
----
-
-## 🧠 Technical Skills
-
-| Category | Stack |
-|-----------|-------|
-| **Frontend** | ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=38BDF8) ![Inertia](https://img.shields.io/badge/Inertia.js-000000?style=flat&logoColor=8B5CF6) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/React%20Native-000000?style=flat&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-000000?style=flat&logo=android&logoColor=3DDC84) |
-| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-000000?style=flat&logo=laravel&logoColor=FF2D20) ![REST](https://img.shields.io/badge/REST%20API-000000?style=flat&logoColor=FFFFFF) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=4479A1) ![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat&logo=firebase&logoColor=FFCA28) ![SQLite](https://img.shields.io/badge/SQLite-000000?style=flat&logo=sqlite&logoColor=003B57) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) ![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman&logoColor=FF6C37) ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E) |
-| **Architecture** | RBAC, Multi-tenant systems, API security, Scalable system design |
+* 🚀 **Currently Building:** Enterprise ERPs and AI-integrated workflow automation tools.
+* 💬 **Ask me about:** React Native offline architecture, Next.js optimization, Laravel API security, and Prompt Engineering.
+* 📫 **Reach me at:** [pal.pavasiyaa@gmail.com](mailto:pal.pavasiyaa@gmail.com)
 
 ---
 
-## 📌 Proof of Work
+### 🛠️ Premium Tech Stack
 
-- 🌐 **Portfolio:** https://palpatel.vercel.app  
-- 📂 Real-world ERP, SaaS, and mobile application projects  
-- 📄 Detailed documentation and screenshots included  
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,laravel,nodejs,supabase,postgres,mysql,wordpress,git,github,vscode,docker&theme=dark&perline=7" />
+  </a>
+</div>
 
 ---
 
-## 📫 Contact
+### 💼 Recent Real-World Focus
 
-📧 **pal.pavasiyaa@gmail.com**  
-📍 Surat, India  
+Instead of just pushing commits, I focus on delivering **business value**:
+- 🔐 **Authentication:** RBAC, JWT, OAuth, multi-tenant SaaS architecture.
+- 💳 **Payments:** Seamless Stripe and Razorpay integrations.
+- 🧠 **AI Integration:** OpenAI API, intelligent automation, and OCR processing.
+- 📱 **Mobile:** Hardware integrations (NFC), Push Notifications, and background sync.
 
-> Open to freelance contract and full-time opportunities.
+> **Note:** My legal name (used on contracts/Upwork) is Pal Patel, but professionally I build as Pal Pavasiya.
